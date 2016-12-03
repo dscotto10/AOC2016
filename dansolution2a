@@ -39,7 +39,7 @@ def keypadmove(a,b):
 			return a - 1
 	elif b == "R":
 		if a == 3:
-			return 9
+			return 3
 		elif a == 6:
 			return 6
 		elif a == 9:
